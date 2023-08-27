@@ -1,0 +1,17 @@
+{
+	"main": {
+		"form": {
+			"first_name": "Prenom", 
+			"last_name": "Nom", 
+			"age": "Age",
+			"birth_date": "Date de naissance"
+		},
+		"api": {
+			"cat_facts": {
+				"fact": "Fait du jour:",
+				"error": "Une erreur est survenue",
+				"loading": "Chargement..."
+			}
+		}
+	}
+}
